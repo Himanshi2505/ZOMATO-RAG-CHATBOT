@@ -1,0 +1,337 @@
+Name,Description,Category,Price,Tags,Dietary_Info,Standard_Category
+,,Soups,,,Unknown,Soups
+,,Soups,,,Unknown,Soups
+,,Soups,,,Unknown,Soups
+,,Soups,,,Unknown,Soups
+,,Soups,,,Unknown,Soups
+,,Soups,,,Unknown,Soups
+,,Soups,,,Unknown,Soups
+,,Soups,,,Unknown,Soups
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Salads,,,Unknown,Salads
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Starters,,,Unknown,Appetizers
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Main Course,,,Unknown,Main Courses
+,,Biryani,,,Unknown,Biryani
+,,Breads,,,Unknown,Breads
+,,Breads,,,Unknown,Breads
+,,Breads,,,Unknown,Breads
+,,Breads,,,Unknown,Breads
+,,Breads,,,Unknown,Breads
+,,Breads,,,Unknown,Breads
+,,Breads,,,Unknown,Breads
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Pizza and Pasta,,,Unknown,Pasta & Pizza
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Snacks,,,Unknown,Snacks
+,,Dimsums,,,Unknown,Dimsums
+,,Dimsums,,,Unknown,Dimsums
+,,Dimsums,,,Unknown,Dimsums
+,,Dimsums,,,Unknown,Dimsums
+,,Dimsums,,,Unknown,Dimsums
+,,Dimsums,,,Unknown,Dimsums
+,,Dimsums,,,Unknown,Dimsums
+,,Dimsums,,,Unknown,Dimsums
+,,Baos,,,Unknown,Baos
+,,Baos,,,Unknown,Baos
+,,Baos,,,Unknown,Baos
+,,Baos,,,Unknown,Baos
+,,Baos,,,Unknown,Baos
+,,Baos,,,Unknown,Baos
+,,Baos,,,Unknown,Baos
+,,Sushi,,,Unknown,Sushi
+,,Sushi,,,Unknown,Sushi
+,,Sushi,,,Unknown,Sushi
+,,Sushi,,,Unknown,Sushi
+,,Sushi,,,Unknown,Sushi
+,,Sushi,,,Unknown,Sushi
+,,Fried Wontons,,,Unknown,Fried wontons
+,,Fried Wontons,,,Unknown,Fried wontons
+,,Fried Wontons,,,Unknown,Fried wontons
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,Pan Asian Large Plates,,,Unknown,Pan asian large plates
+,,European Large Plates,,,Unknown,European large plates
+,,European Large Plates,,,Unknown,European large plates
+,,European Large Plates,,,Unknown,European large plates
+,,European Large Plates,,,Unknown,European large plates
+,,European Large Plates,,,Unknown,European large plates
+,,Accompaniments,,,Unknown,Accompaniments
+,,Accompaniments,,,Unknown,Accompaniments
+,,Desserts,,,Unknown,Desserts
+,,Desserts,,,Unknown,Desserts
+,,Desserts,,,Unknown,Desserts
+,,Desserts,,,Unknown,Desserts
+Amritsari Chicken Keema Bao,Amritsari Chicken Keema Bao is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Amritsari Paneer Bhurji Bao,Amritsari Paneer Bhurji Bao is a classic Indian vegetarian dish priced at Rs 525.,,Rs 525,,Vegetarian,Uncategorized
+Asian Green Sliced Sichuan Chilli Oil,Asian Green Sliced Sichuan Chilli Oil is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Asian Vegetable Wonton,Asian Vegetable Wonton is a  item priced at Rs 495.,,Rs 495,,Vegetarian,Uncategorized
+Asparagus Tempura Sushi [8 Pieces],Asparagus Tempura Sushi [8 Pieces] is a  item priced at Rs 895.,,Rs 895,,Unknown,Uncategorized
+Asparagus Water Chestnut and Sichuan Chilli Dimsums [12 inches],Asparagus Water Chestnut and Sichuan Chilli Dimsums [12 inches] is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Baked Fusilli Primavera Pasta,Baked Fusilli Primavera Pasta is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Basil Pesto Spaghetti Pasta,Basil Pesto Spaghetti Pasta is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Beetroot and Green Salad,Beetroot and Green Salad is a  item priced at Rs 495.,,Rs 495,SPICY,Unknown,Uncategorized
+Berry Burrata Bhel,Berry Burrata Bhel is a  item priced at Rs 495.,,Rs 495,,Unknown,Uncategorized
+Black Rice Bhel Puri,Black Rice Bhel Puri is a  item priced at Rs 345.,,Rs 345,,Unknown,Uncategorized
+Brioche Vada Pav,Brioche Vada Pav is a  item priced at Rs 395.,,Rs 395,,Unknown,Uncategorized
+Brown Tofu,Brown Tofu is a  item priced at Rs 545.,,Rs 545,,Vegetarian,Uncategorized
+Burani Raita,Burani Raita is a  item priced at Rs 325.,,Rs 325,,Unknown,Uncategorized
+Butter Chicken,Butter Chicken is a delicious chicken dish priced at Rs 675.,,Rs 675,,Non-Vegetarian,Uncategorized
+Butter Garlic Seafood,Butter Garlic Seafood is a  item priced at Rs 965.,,Rs 965,,Unknown,Uncategorized
+Butter Naan,Butter Naan is a  item priced at Rs 125.,,Rs 125,,Unknown,Uncategorized
+Butter Tandoori Roti,Butter Tandoori Roti is a  item priced at Rs 95.,,Rs 95,,Unknown,Uncategorized
+Buttermilk Soaked Chicken 65,Buttermilk Soaked Chicken 65 is a delicious chicken dish priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Charred Cottage Cheese,Charred Cottage Cheese is a  item priced at Rs 695.,,Rs 695,,Vegetarian,Uncategorized
+Charred Portobello Mushroom,Charred Portobello Mushroom is a  item priced at Rs 795.,,Rs 795,,Vegetarian,Uncategorized
+Chef Special Dum Biryani,Chef Special Dum Biryani is a  item priced at Rs 755.,,Rs 755,,Unknown,Uncategorized
+Chermoula Fish Finges,Chermoula Fish Finges is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Chicken Black Pepper,Chicken Black Pepper is a delicious chicken dish priced at Rs 695.,,Rs 695,,Non-Vegetarian,Uncategorized
+Chicken Magic Kung Pao,Chicken Magic Kung Pao is a delicious chicken dish priced at Rs 695.,,Rs 695,,Non-Vegetarian,Uncategorized
+Chicken Mangolian Curry,Chicken Mangolian Curry is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chicken Messaman Curry,Chicken Messaman Curry is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chicken Rendang Bali Indonaise a Balines Rendang Curry Pot,Chicken Rendang Bali Indonaise a Balines Rendang Curry Pot is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chicken Seekh kebab,Chicken Seekh kebab is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chicken Sliced Sichuan Chilli Oil,Chicken Sliced Sichuan Chilli Oil is a delicious chicken dish priced at Rs 695.,,Rs 695,,Non-Vegetarian,Uncategorized
+Chicken Smoked Gyoza Dimsums [5 Pieces],Chicken Smoked Gyoza Dimsums [5 Pieces] is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chicken Thai Basil Black Bean,Chicken Thai Basil Black Bean is a delicious chicken dish priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Chicken The Classic Curry Pot,Chicken The Classic Curry Pot is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chicken Tikka,Chicken Tikka is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chicken and Scallion Wonton,Chicken and Scallion Wonton is a delicious chicken dish priced at Rs 525.,,Rs 525,,Non-Vegetarian,Uncategorized
+Chilli Hoisin Lamb Bao,Chilli Hoisin Lamb Bao is a  item priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Chilli Oil Chicken Dimsums [5 Pieces],Chilli Oil Chicken Dimsums [5 Pieces] is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Classic Barcelona Shrimps,Classic Barcelona Shrimps is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Classic Dynamic Prawns,Classic Dynamic Prawns is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Classic Thai Sesame Lotus Stem,Classic Thai Sesame Lotus Stem is a  item priced at Rs 495.,,Rs 495,,Unknown,Uncategorized
+Coconut Olivo Prawns,Coconut Olivo Prawns is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Cream Cheese Edamame Dimsums [5 Pieces],Cream Cheese Edamame Dimsums [5 Pieces] is a  item priced at Rs 625.,,Rs 625,,Vegetarian,Uncategorized
+Creamy Alfredo Fusilli Pasta,Creamy Alfredo Fusilli Pasta is a  item priced at Rs 525.,,Rs 525,,Unknown,Uncategorized
+Creamy Tom Kha Soup,Creamy Tom Kha Soup is a  item priced at Rs 475.,,Rs 475,,Unknown,Uncategorized
+Crystal Veg Dimsums [5 Pieces],Crystal Veg Dimsums [5 Pieces] is a  item priced at Rs 595.,,Rs 595,,Vegetarian,Uncategorized
+Dal Makhani,Dal Makhani is a  item priced at Rs 695.,,Rs 695,,Vegetarian,Uncategorized
+Dal Tadka,Dal Tadka is a  item priced at Rs 555.,,Rs 555,,Vegetarian,Uncategorized
+Dhuaan Chicken Tikka Nest,Dhuaan Chicken Tikka Nest is a delicious chicken dish priced at Rs 695.,,Rs 695,,Non-Vegetarian,Uncategorized
+Dhuaan Paneer Tikka Nest Tart,Dhuaan Paneer Tikka Nest Tart is a classic Indian vegetarian dish priced at Rs 475.,,Rs 475,,Vegetarian,Uncategorized
+Diavola Spicy Salami Pizza [12 inches],Diavola Spicy Salami Pizza [12 inches] is a  item priced at Rs 865.,,Rs 865,,Unknown,Uncategorized
+Double Malai Kofta,Double Malai Kofta is a  item priced at Rs 895.,,Rs 895,,Unknown,Uncategorized
+Ebi Tempura Sushi [8 Pieces],Ebi Tempura Sushi [8 Pieces] is a  item priced at Rs 965.,,Rs 965,,Unknown,Uncategorized
+Edamame Chicken Cesar Salad,Edamame Chicken Cesar Salad is a delicious chicken dish priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Edamame Classic Cesar Salad,Edamame Classic Cesar Salad is a  item priced at Rs 495.,,Rs 495,,Unknown,Uncategorized
+Edamame Salmon Cesar Salad,Edamame Salmon Cesar Salad is a  item priced at Rs 995.,,Rs 995,,Unknown,Uncategorized
+French Fries,French Fries is a  item priced at Rs 395.,,Rs 395,,Unknown,Uncategorized
+French Toast,French Toast is a  item priced at Rs 575.,,Rs 575,,Unknown,Uncategorized
+Garlic Naan,Garlic Naan is a  item priced at Rs 135.,,Rs 135,,Unknown,Uncategorized
+Ginger Bambo,Ginger Bambo is a  item priced at Rs 795.,,Rs 795,,Unknown,Uncategorized
+Green salad,Green salad is a  item priced at Rs 225.,,Rs 225,,Unknown,Uncategorized
+Grilled Forest Chicken,Grilled Forest Chicken is a delicious chicken dish priced at Rs 895.,,Rs 895,,Non-Vegetarian,Uncategorized
+Grilled Scilion Chicken Breast,Grilled Scilion Chicken Breast is a delicious chicken dish priced at Rs 795.,,Rs 795,,Non-Vegetarian,Uncategorized
+Grilled White Fish,Grilled White Fish is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Hara Bhara Kebab,Hara Bhara Kebab is a  item priced at Rs 525.,,Rs 525,,Unknown,Uncategorized
+Heirloom Tomatoes and Feta Bruschetta,Heirloom Tomatoes and Feta Bruschetta is a  item priced at Rs 495.,,Rs 495,,Unknown,Uncategorized
+Hummus and Dips,Hummus and Dips is a  item priced at Rs 655.,,Rs 655,,Unknown,Uncategorized
+Japanese Milk Bread,Japanese Milk Bread is a  item priced at Rs 575.,,Rs 575,,Unknown,Uncategorized
+Katafi Dhai Kebab,Katafi Dhai Kebab is a  item priced at Rs 435.,,Rs 435,,Unknown,Uncategorized
+Kerage Crispy Chicken,Kerage Crispy Chicken is a delicious chicken dish priced at Rs 555.,,Rs 555,,Non-Vegetarian,Uncategorized
+Khamiri Roti,Khamiri Roti is a  item priced at Rs 110.,,Rs 110,,Unknown,Uncategorized
+Korean Chicken Sushi [8 Pieces],Korean Chicken Sushi [8 Pieces] is a delicious chicken dish priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Korean Gocho Chang Charred Chicken Bao,Korean Gocho Chang Charred Chicken Bao is a delicious chicken dish priced at Rs 565.,,Rs 565,,Non-Vegetarian,Uncategorized
+Kosha Mangsho,Kosha Mangsho is a  item priced at Rs 645.,,Rs 645,,Unknown,Uncategorized
+Laccha Paratha,Laccha Paratha is a  item priced at Rs 125.,,Rs 125,,Unknown,Uncategorized
+Lamb Bolognese Pasta,Lamb Bolognese Pasta is a  item priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Lamb Mangolian Curry,Lamb Mangolian Curry is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Lamb Messaman Curry,Lamb Messaman Curry is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Lamb Rendang Bali Indonaise a Balines Rendang Curry Pot,Lamb Rendang Bali Indonaise a Balines Rendang Curry Pot is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Lamb The Classic Curry Pot,Lamb The Classic Curry Pot is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Mabo Tofu,Mabo Tofu is a  item priced at Rs 795.,,Rs 795,,Vegetarian,Uncategorized
+Mac N Cheese Pasta,Mac N Cheese Pasta is a  item priced at Rs 555.,,Rs 555,,Vegetarian,Uncategorized
+Margherita Pizza [12 inches],Margherita Pizza [12 inches] is a  item priced at Rs 775.,,Rs 775,,Unknown,Uncategorized
+Masala Papad,Masala Papad is a  item priced at Rs 225.,,Rs 225,,Unknown,Uncategorized
+Mashed Potato,Mashed Potato is a  item priced at Rs 225.,,Rs 225,,Unknown,Uncategorized
+Meat Special Pizza [12 inches],Meat Special Pizza [12 inches] is a  item priced at Rs 995.,,Rs 995,,Unknown,Uncategorized
+Messaman Curry,Messaman Curry is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Minestrone Soup,Minestrone Soup is a  item priced at Rs 525.,,Rs 525,,Unknown,Uncategorized
+Miss Italian Parma Di Latte Pizza [12 inches],Miss Italian Parma Di Latte Pizza [12 inches] is a  item priced at Rs 995.,,Rs 995,,Unknown,Uncategorized
+Missi Roti,Missi Roti is a  item priced at Rs 115.,,Rs 115,,Unknown,Uncategorized
+Mixed Green Thai Basil Black Bean,Mixed Green Thai Basil Black Bean is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Murgh Malai Tikka,Murgh Malai Tikka is a  item priced at Rs 675.,,Rs 675,,Unknown,Uncategorized
+Mushroom Gyoza Dimsums [5 Pieces],Mushroom Gyoza Dimsums [5 Pieces] is a  item priced at Rs 525.,,Rs 525,,Vegetarian,Uncategorized
+Mushroom Magic Kung Pao,Mushroom Magic Kung Pao is a  item priced at Rs 595.,,Rs 595,,Vegetarian,Uncategorized
+Mushroom Rara,Mushroom Rara is a  item priced at Rs 645.,,Rs 645,,Vegetarian,Uncategorized
+Mushroom Risotto Pasta,Mushroom Risotto Pasta is a  item priced at Rs 675.,,Rs 675,,Vegetarian,Uncategorized
+Mutton Keema Pav,Mutton Keema Pav is a  item priced at Rs 655.,,Rs 655,,Non-Vegetarian,Uncategorized
+Non Veg Hot Sour Soup,Non Veg Hot Sour Soup is a  item priced at Rs 555.,,Rs 555,,Vegetarian,Uncategorized
+Non Veg Minestrone Soup,Non Veg Minestrone Soup is a  item priced at Rs 525.,,Rs 525,,Vegetarian,Uncategorized
+Non Veg Sichuan Style Manchow Soup,Non Veg Sichuan Style Manchow Soup is a  item priced at Rs 55.,,Rs 55,,Vegetarian,Uncategorized
+Nyc Cream Cheese Dumpling [5 Pieces],Nyc Cream Cheese Dumpling [5 Pieces] is a  item priced at Rs 625.,,Rs 625,,Vegetarian,Uncategorized
+Ombre Stuffed Kulcha,Ombre Stuffed Kulcha is a  item priced at Rs 135.,,Rs 135,,Unknown,Uncategorized
+Paneer Tikka Masala,Paneer Tikka Masala is a classic Indian vegetarian dish priced at Rs 725.,,Rs 725,,Vegetarian,Uncategorized
+Paneer Tikka Moogewala,Paneer Tikka Moogewala is a classic Indian vegetarian dish priced at Rs 565.,,Rs 565,,Vegetarian,Uncategorized
+Parmeasan and Herbal Peshwari Chicken,Parmeasan and Herbal Peshwari Chicken is a delicious chicken dish priced at Rs 565.,,Rs 565,,Non-Vegetarian,Uncategorized
+Pepper Prawns,Pepper Prawns is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Pesto Chicken Penne Pasta,Pesto Chicken Penne Pasta is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Pomodoro Gourmet Farfalle Pasta,Pomodoro Gourmet Farfalle Pasta is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Pork Ginger Bambo,Pork Ginger Bambo is a  item priced at Rs 895.,,Rs 895,,Non-Vegetarian,Uncategorized
+Pork Mangolian Curry,Pork Mangolian Curry is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Pork Messaman Curry,Pork Messaman Curry is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Pork Rendang Bali Indonaise a Balines Rendang Curry Pot,Pork Rendang Bali Indonaise a Balines Rendang Curry Pot is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Pork Sliced Sichuan Chilli Oil,Pork Sliced Sichuan Chilli Oil is a  item priced at Rs 695.,,Rs 695,,Non-Vegetarian,Uncategorized
+Pork The Classic Curry Pot,Pork The Classic Curry Pot is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Prawnd Hargao and Truffle Dimsums [5 Pieces],Prawnd Hargao and Truffle Dimsums [5 Pieces] is a  item priced at Rs 675.,,Rs 675,,Non-Vegetarian,Uncategorized
+Prawns Mangolian Curry,Prawns Mangolian Curry is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Prawns Messaman Curry,Prawns Messaman Curry is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Prawns Rendang Bali Indonaise a Balines Rendang Curry Pot,Prawns Rendang Bali Indonaise a Balines Rendang Curry Pot is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Prawns The Classic Curry Pot,Prawns The Classic Curry Pot is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Prawns and Chive Wonton,Prawns and Chive Wonton is a  item priced at Rs 725.,,Rs 725,,Non-Vegetarian,Uncategorized
+Quattro Formaggi Pizza [12 inches],Quattro Formaggi Pizza [12 inches] is a  item priced at Rs 865.,,Rs 865,,Unknown,Uncategorized
+Quinoa and Burrata Salad,Quinoa and Burrata Salad is a  item priced at Rs 535.,,Rs 535,,Unknown,Uncategorized
+Rendang Bali Indonaise a Balines Rendang Curry Pot,Rendang Bali Indonaise a Balines Rendang Curry Pot is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Roasted Chicken and Pomodoro Risotto Pasta,Roasted Chicken and Pomodoro Risotto Pasta is a delicious chicken dish priced at Rs 695.,,Rs 695,,Non-Vegetarian,Uncategorized
+Roasted Pot Vegetable Risotto Pasta,Roasted Pot Vegetable Risotto Pasta is a  item priced at Rs 625.,,Rs 625,,Vegetarian,Uncategorized
+Salmon Creamy Cheesy Sushi [8 Pieces],Salmon Creamy Cheesy Sushi [8 Pieces] is a  item priced at Rs 1025.,,Rs 1025,,Unknown,Uncategorized
+Seasonal Grilled Veg,Seasonal Grilled Veg is a  item priced at Rs 225.,,Rs 225,,Vegetarian,Uncategorized
+Shake Shake Sesame Raw Honey Citrus Chicken,Shake Shake Sesame Raw Honey Citrus Chicken is a delicious chicken dish priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Shredded Lamb Sliced Sichuan Chilli Oil,Shredded Lamb Sliced Sichuan Chilli Oil is a  item priced at Rs 795.,,Rs 795,,Non-Vegetarian,Uncategorized
+Sichuan Style Manchow Soup,Sichuan Style Manchow Soup is a  item priced at Rs 475.,,Rs 475,,Unknown,Uncategorized
+Siciliana Egg Plant and Tomato Pizza [12 inches],Siciliana Egg Plant and Tomato Pizza [12 inches] is a  item priced at Rs 795.,,Rs 795,,Non-Vegetarian,Uncategorized
+Simply Chicken Pizza [12 inches],Simply Chicken Pizza [12 inches] is a delicious chicken dish priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Sliced Fish Mangolian Curry,Sliced Fish Mangolian Curry is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Sliced Fish Messaman Curry,Sliced Fish Messaman Curry is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Sliced Fish Rendang Bali Indonaise a Balines Rendang Curry Pot,Sliced Fish Rendang Bali Indonaise a Balines Rendang Curry Pot is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Sliced Fish The Classic Curry Pot,Sliced Fish The Classic Curry Pot is a  item priced at Rs 595.,,Rs 595,,Non-Vegetarian,Uncategorized
+Smashed Avocado and Sour Dough Toast,Smashed Avocado and Sour Dough Toast is a  item priced at Rs 565.,,Rs 565,,Unknown,Uncategorized
+Smoked Mushroom Galauti,Smoked Mushroom Galauti is a  item priced at Rs 495.,,Rs 495,,Vegetarian,Uncategorized
+Smoked Mutton Galauti,Smoked Mutton Galauti is a  item priced at Rs 695.,,Rs 695,,Non-Vegetarian,Uncategorized
+Smoked Paneer Makhan Marka,Smoked Paneer Makhan Marka is a classic Indian vegetarian dish priced at Rs 695.,,Rs 695,,Vegetarian,Uncategorized
+Smoked Salmon and Avocado Salad,Smoked Salmon and Avocado Salad is a  item priced at Rs 1295.,,Rs 1295,BESTSELLER,Unknown,Uncategorized
+Smoked Truffle Malai Tandoori Chicken Skewer,Smoked Truffle Malai Tandoori Chicken Skewer is a delicious chicken dish priced at Rs 625.,,Rs 625,,Non-Vegetarian,Uncategorized
+Som Tum Salad,Som Tum Salad is a  item priced at Rs 495.,,Rs 495,SPICY,Unknown,Uncategorized
+Southern California Sushi [8 Pieces],Southern California Sushi [8 Pieces] is a  item priced at Rs 895.,,Rs 895,,Unknown,Uncategorized
+Spaghetti Aglio Olio Pasta,Spaghetti Aglio Olio Pasta is a  item priced at Rs 625.,,Rs 625,,Unknown,Uncategorized
+Spicy Scallion Sichuan Prawns,Spicy Scallion Sichuan Prawns is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Spicy Vegetable Bao,Spicy Vegetable Bao is a  item priced at Rs 495.,,Rs 495,,Vegetarian,Uncategorized
+Stuffed Mushroom Tikka,Stuffed Mushroom Tikka is a  item priced at Rs 565.,,Rs 565,,Vegetarian,Uncategorized
+Tabanjan Soya and Garlic Prawns,Tabanjan Soya and Garlic Prawns is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Tandoori Broccoli in Kasundi Mustard,Tandoori Broccoli in Kasundi Mustard is a  item priced at Rs 565.,,Rs 565,,Unknown,Uncategorized
+Tandoori Fish Tikka,Tandoori Fish Tikka is a  item priced at Rs 895.,,Rs 895,,Non-Vegetarian,Uncategorized
+Tandoori Jumbo Prawns in Kasundi Mustard,Tandoori Jumbo Prawns in Kasundi Mustard is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Tandoori Mushroom Tikka,Tandoori Mushroom Tikka is a  item priced at Rs 495.,,Rs 495,,Vegetarian,Uncategorized
+Tandoori Roti,Tandoori Roti is a  item priced at Rs 75.,,Rs 75,,Unknown,Uncategorized
+Tandoori Soya Chaap Purani Dilli,Tandoori Soya Chaap Purani Dilli is a  item priced at Rs 525.,,Rs 525,,Unknown,Uncategorized
+Tawa Chicken,Tawa Chicken is a delicious chicken dish priced at Rs 795.,,Rs 795,,Non-Vegetarian,Uncategorized
+Tenderloin Ginger Bambo,Tenderloin Ginger Bambo is a  item priced at Rs 845.,,Rs 845,,Unknown,Uncategorized
+Tenderloin Mangolian Curry,Tenderloin Mangolian Curry is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Tenderloin Messaman Curry,Tenderloin Messaman Curry is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Tenderloin Rendang Bali Indonaise a Balines Rendang Curry Pot,Tenderloin Rendang Bali Indonaise a Balines Rendang Curry Pot is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Tenderloin Sichuan Chilli Oil,Tenderloin Sichuan Chilli Oil is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Tenderloin The Classic Curry Pot,Tenderloin The Classic Curry Pot is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Teriyaki Tofu and Green Salad,Teriyaki Tofu and Green Salad is a  item priced at Rs 535.,,Rs 535,,Vegetarian,Uncategorized
+Thai Style Salad,Thai Style Salad is a  item priced at Rs 555.,,Rs 555,,Unknown,Uncategorized
+The Classic Curry Pot,The Classic Curry Pot is a  item priced at Rs 595.,,Rs 595,,Unknown,Uncategorized
+Tiramisu,Tiramisu is a  item priced at Rs 555.,,Rs 555,,Unknown,Uncategorized
+Tofu Black Pepper,Tofu Black Pepper is a  item priced at Rs 595.,,Rs 595,,Vegetarian,Uncategorized
+Tofu Spinach Bao,Tofu Spinach Bao is a  item priced at Rs 525.,,Rs 525,,Vegetarian,Uncategorized
+Tom Yum Soup,Tom Yum Soup is a  item priced at Rs 375.,,Rs 375,,Unknown,Uncategorized
+Tres Leches Mot Ichor Perfait,Tres Leches Mot Ichor Perfait is a  item priced at Rs 555.,,Rs 555,,Unknown,Uncategorized
+Truffle Enoki Bao,Truffle Enoki Bao is a  item priced at Rs 525.,,Rs 525,,Unknown,Uncategorized
+Truffle Enoki Sushi [8 Pieces],Truffle Enoki Sushi [8 Pieces] is a  item priced at Rs 895.,,Rs 895,,Unknown,Uncategorized
+Truffle Fries,Truffle Fries is a  item priced at Rs 395.,,Rs 395,,Unknown,Uncategorized
+Truffle Tempura Prawns,Truffle Tempura Prawns is a  item priced at Rs 995.,,Rs 995,,Non-Vegetarian,Uncategorized
+Truffle and Porcini Pizza [12 inches],Truffle and Porcini Pizza [12 inches] is a  item priced at Rs 865.,,Rs 865,,Unknown,Uncategorized
+Veg Hot Sour Soup,Veg Hot Sour Soup is a  item priced at Rs 375.,,Rs 375,,Vegetarian,Uncategorized
+Veg Mangolian Curry,Veg Mangolian Curry is a  item priced at Rs 595.,,Rs 595,,Vegetarian,Uncategorized
+Veggie Ortolana Pizza [12 inches],Veggie Ortolana Pizza [12 inches] is a  item priced at Rs 795.,,Rs 795,,Non-Vegetarian,Uncategorized
+Versace Buffalo Mozzarella Pizza [12 inches],Versace Buffalo Mozzarella Pizza [12 inches] is a  item priced at Rs 795.,,Rs 795,,Unknown,Uncategorized
