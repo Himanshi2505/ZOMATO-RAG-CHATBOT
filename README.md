@@ -1,4 +1,3 @@
-```markdown
 # Zomato RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot to query Zomato restaurant data. It allows users to compare dishes, filter by price or dietary preferences, and get personalized dining insights — all via natural language.
